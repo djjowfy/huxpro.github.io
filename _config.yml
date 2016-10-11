@@ -88,14 +88,5 @@ friends: [
     },{
         title: "Gityuan",
         href: "http://gityuan.com/"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
     }
 ]
